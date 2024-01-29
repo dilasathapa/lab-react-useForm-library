@@ -1,7 +1,11 @@
 .parent-container{
   display: flex;
-  flex-direction: column;
-  margin: 5% 30%;
+  flex-direction: row;
+  margin: 5% 35%;
   border: 2px solid gray;
   padding: 4%;
+}
+
+p{
+  color: red;
 }
